@@ -5,22 +5,21 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+  background-color: #ffd9e4;
   color: #333333;
 }
 .container {
-  max-width: 800px;
+  max-width: 500px;
   margin: auto;
   padding: 20px;
   background-color: #ffffff;
 }
 header {
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 5px;
 }
 header img {
-  width: 150px;
-  border-radius: 50%;
+  width: 500px;
 }
 h1 {
   margin: 10px 0 5px;
